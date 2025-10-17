@@ -43,27 +43,27 @@ A2) The repo is not empty (e.g., you ticked “Add README”, so it has 1+ commi
 
 Safe method (recommended): keep GitHub history and integrate your local work.
 
-git init
-git add .
-git commit -m "chore: scaffold Vite + pin toolchain"
+    git init
+    git add .
+    git commit -m "chore: scaffold Vite + pin toolchain"
 
-git branch -M main
-git remote add origin https://github.com/pooryafayazi/React-Vite-protfolio.git
+    git branch -M main
+    git remote add origin https://github.com/pooryafayazi/React-Vite-protfolio.git
 
-# Allow unrelated histories and rebase your local work on top
-git pull --rebase origin main --allow-unrelated-histories
+    # Allow unrelated histories and rebase your local work on top
+    git pull --rebase origin main --allow-unrelated-histories
 
-# If you get conflicts (often on README), resolve them, then:
-git add .
-git rebase --continue
+    # If you get conflicts (often on README), resolve them, then:
+    git add .
+    git rebase --continue
 
-# Push
-git push -u origin main
+    # Push
+    git push -u origin main
 
 
 Fast but destructive method (overwrites GitHub history):
 
-git push -u origin main --force
+    git push -u origin main --force
 
 
 ⚠️ Warning: This will replace the existing history on GitHub.
