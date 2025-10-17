@@ -42,7 +42,7 @@ Repository name used below: React-Vite-protfolio (as chosen).
 
 **A2)** The repo is not empty (e.g., you ticked “Add README”, so it has 1+ commits)
 
-Safe method (recommended): keep GitHub history and integrate your local work.
+**Safe method** (recommended): keep GitHub history and integrate your local work.
 
     git init
     git add .
@@ -62,12 +62,12 @@ Safe method (recommended): keep GitHub history and integrate your local work.
     git push -u origin main
 
 
-Fast but destructive method (overwrites GitHub history):
+Fast but **destructive** method (overwrites GitHub history):
 
     git push -u origin main --force
 
 
-⚠️ Warning: This will replace the existing history on GitHub.
+⚠️ **Warning:** This will replace the existing history on GitHub.
 
 “Start fresh” method (clone then copy files):
 
