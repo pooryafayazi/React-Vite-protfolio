@@ -69,7 +69,7 @@ Fast but **destructive** method (overwrites GitHub history):
 
 ⚠️ **Warning:** This will replace the existing history on GitHub.
 
-“Start fresh” method (clone then copy files):
+**“Start fresh”** method (clone then copy files):
 
     cd ..
     git clone https://github.com/pooryafayazi/React-Vite-protfolio.git
@@ -85,7 +85,7 @@ On GitHub → New repository
 
 Name: React-Vite-protfolio
 
-Do NOT initialize with README / .gitignore / License (leave it empty)
+**Do NOT** initialize with **README** / **.gitignore** / **License** (leave it empty)
 
 Back in your project folder, run:
 
