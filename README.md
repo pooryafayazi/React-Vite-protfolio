@@ -81,7 +81,7 @@ Fast but **destructive** method (overwrites GitHub history):
 
 - **B)** You have not created a GitHub repository yet
 
-On GitHub → New repository
+On GitHub → `New repository`
 
 Name: React-Vite-protfolio
 
