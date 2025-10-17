@@ -20,8 +20,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Repository name used below: React-Vite-protfolio (as chosen).
 
-A) You already created a GitHub repository
-A1) The repo is empty (no README / .gitignore / License)
+- **A)** You already created a GitHub repository
+**A1)** The repo is empty (no README / .gitignore / License)
     # In your project folder
     git init
     git add .
@@ -78,7 +78,7 @@ Fast but destructive method (overwrites GitHub history):
     git commit -m "chore: scaffold Vite + pin toolchain"
     git push
 
-B) You have not created a GitHub repository yet
+- **B)** You have not created a GitHub repository yet
 
 On GitHub → New repository
 
