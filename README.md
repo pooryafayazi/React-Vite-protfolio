@@ -21,6 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 Repository name used below: React-Vite-protfolio (as chosen).
 
 - **A)** You already created a GitHub repository
+- 
 **A1)** The repo is empty (no README / .gitignore / License)
     # In your project folder
     git init
@@ -39,7 +40,7 @@ Repository name used below: React-Vite-protfolio (as chosen).
     # First push
     git push -u origin main
 
-A2) The repo is not empty (e.g., you ticked “Add README”, so it has 1+ commits)
+**A2)** The repo is not empty (e.g., you ticked “Add README”, so it has 1+ commits)
 
 Safe method (recommended): keep GitHub history and integrate your local work.
 
