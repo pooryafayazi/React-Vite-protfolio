@@ -70,13 +70,13 @@ git push -u origin main --force
 
 “Start fresh” method (clone then copy files):
 
-cd ..
-git clone https://github.com/pooryafayazi/React-Vite-protfolio.git
-# Copy your project files into the cloned folder
-cd React-Vite-protfolio
-git add .
-git commit -m "chore: scaffold Vite + pin toolchain"
-git push
+    cd ..
+    git clone https://github.com/pooryafayazi/React-Vite-protfolio.git
+    # Copy your project files into the cloned folder
+    cd React-Vite-protfolio
+    git add .
+    git commit -m "chore: scaffold Vite + pin toolchain"
+    git push
 
 B) You have not created a GitHub repository yet
 
