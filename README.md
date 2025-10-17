@@ -22,22 +22,22 @@ Repository name used below: React-Vite-protfolio (as chosen).
 
 A) You already created a GitHub repository
 A1) The repo is empty (no README / .gitignore / License)
-# In your project folder
-git init
-git add .
-git commit -m "chore: scaffold Vite + pin toolchain (Node 22.19, npm 11.6.2)"
+    # In your project folder
+    git init
+    git add .
+    git commit -m "chore: scaffold Vite + pin toolchain (Node 22.19, npm 11.6.2)"
 
-# Make main the default branch
-git branch -M main
+    # Make main the default branch
+    git branch -M main
 
-# Add your GitHub repo as remote
-# HTTPS:
-git remote add origin https://github.com/pooryafayazi/React-Vite-protfolio.git
-# or SSH:
-# git remote add origin git@github.com:pooryafayazi/React-Vite-protfolio.git
+    # Add your GitHub repo as remote
+    # HTTPS:
+    git remote add origin https://github.com/pooryafayazi/React-Vite-protfolio.git
+    # or SSH:
+    # git remote add origin git@github.com:pooryafayazi/React-Vite-protfolio.git
 
-# First push
-git push -u origin main
+    # First push
+    git push -u origin main
 
 A2) The repo is not empty (e.g., you ticked “Add README”, so it has 1+ commits)
 
