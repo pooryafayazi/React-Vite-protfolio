@@ -89,9 +89,9 @@ Name: React-Vite-protfolio
 
 Back in your project folder, run:
 
-    git init
-    git add .
-    git commit -m "chore: scaffold Vite + pin toolchain (Node 22.19, npm 11.6.2)"
-    git branch -M main
-    git remote add origin https://github.com/pooryafayazi/React-Vite-protfolio.git
-    git push -u origin main
+```git init
+git add .
+git commit -m "chore: scaffold Vite + pin toolchain (Node 22.19, npm 11.6.2)"
+git branch -M main
+git remote add origin https://github.com/pooryafayazi/React-Vite-protfolio.git
+git push -u origin main```
